@@ -1,0 +1,23 @@
+*** Start of Comparing Strings Demo ***
+Type the 1st string to compare (q - to quit):
+1
+Type the 2nd string to compare:
+4
+'1' string is less than '4'
+Type the 1st string to compare (q - to quit):
+456
+Type the 2nd string to compare:
+125
+'456' string is greater than '125'
+Type the 1st string to compare (q - to quit):
+a
+Type the 2nd string to compare:
+b
+'a' string is less than 'b'
+Type the 1st string to compare (q - to quit):
+TestStringForSoftwareTestingPurposes123456789012345678901234567890123456789012345678901234567890
+Type the 2nd string to compare:
+'TestStringForSoftwareTestingPurposes123456789012345678901234567890123456789012' string is greater than '45678901234567890'
+Type the 1st string to compare (q - to quit):
+q
+*** End of Comparing Strings Demo ***
